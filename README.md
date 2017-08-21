@@ -1,3 +1,3 @@
 # hello-world
 test
-BS CS Senior
+BS CS Senior, AFROTC candidate
